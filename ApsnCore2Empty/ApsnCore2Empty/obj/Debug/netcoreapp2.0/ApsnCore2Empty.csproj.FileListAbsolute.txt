@@ -1,0 +1,11 @@
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\bin\Debug\netcoreapp2.0\ApsnCore2Empty.deps.json
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\bin\Debug\netcoreapp2.0\ApsnCore2Empty.runtimeconfig.json
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\bin\Debug\netcoreapp2.0\ApsnCore2Empty.runtimeconfig.dev.json
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\bin\Debug\netcoreapp2.0\ApsnCore2Empty.dll
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\bin\Debug\netcoreapp2.0\ApsnCore2Empty.pdb
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\obj\Debug\netcoreapp2.0\ApsnCore2Empty.csprojAssemblyReference.cache
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\obj\Debug\netcoreapp2.0\ApsnCore2Empty.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\obj\Debug\netcoreapp2.0\ApsnCore2Empty.AssemblyInfoInputs.cache
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\obj\Debug\netcoreapp2.0\ApsnCore2Empty.AssemblyInfo.cs
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\obj\Debug\netcoreapp2.0\ApsnCore2Empty.dll
+C:\Projetos\CursoApsNetCore\ApsnCore2Empty\ApsnCore2Empty\obj\Debug\netcoreapp2.0\ApsnCore2Empty.pdb

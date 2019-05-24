@@ -1,0 +1,6 @@
+C:\Projetos\CursoApsNetCore\ProjetoTeste_1\Calculadora\bin\Debug\Calculadora.dll
+C:\Projetos\CursoApsNetCore\ProjetoTeste_1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Projetos\CursoApsNetCore\ProjetoTeste_1\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Projetos\CursoApsNetCore\ProjetoTeste_1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoApsNetCore\ProjetoTeste_1\Calculadora\obj\Debug\Calculadora.dll
+C:\Projetos\CursoApsNetCore\ProjetoTeste_1\Calculadora\obj\Debug\Calculadora.pdb
